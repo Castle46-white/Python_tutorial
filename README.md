@@ -7,10 +7,10 @@
 
 ## 暇なときに読むといいかも
 
-- [公式チュートリアル](https://docs.python.org/ja/3.6/tutorial/index.html){:target="_blank"}  
+- [公式チュートリアル](https://docs.python.org/ja/3.6/tutorial/index.html)   
 公式のチュートリアル( バージョンに注意 )
 
-- [PEP8(日本語)](https://pep8-ja.readthedocs.io/ja/latest/){:target="_blank"}  
+- [PEP8(日本語)](https://pep8-ja.readthedocs.io/ja/latest/)  
 Pythonのコーディング規約( コードを書く上でのルール )  
 必ずしも守らなければいけないわけではないが  
 **保守性や可読性** の向上が見込める
