@@ -1,7 +1,7 @@
 # Python基礎講習
 ## 講習内容
 - [変数とデータ型](https://github.com/Castle46-white/Python_tutorial/blob/master/lecture/lec01.md)
-- コレクション（リスト）
+- [コレクション(作成中)](https://github.com/Castle46-white/Python_tutorial/blob/master/lecture/lec02.md)
 - [条件分岐と繰り返し(作成中)](https://github.com/Castle46-white/Python_tutorial/blob/master/lecture/lec03.md)
 - [関数](https://github.com/Castle46-white/Python_tutorial/blob/master/lecture/lec04.md)
 
