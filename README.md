@@ -17,8 +17,9 @@ Pythonのコーディング規約( コードを書く上でのルール )
 
 
 ### 個人的におすすめのサイト
-- [Chainer Tutorial](https://tutorials.chainer.org/ja/tutorial.html)
-冬休みとか時間があれば覗いてみるといいかも
+- [Chainer Tutorial](https://tutorials.chainer.org/ja/tutorial.html)  
+冬休みとか時間があれば覗いてみるといいかも  
 特に ` NumPy ` , ` Pandas ` はよく使うので...
+
 ### 参考サイト
 
