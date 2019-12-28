@@ -4,6 +4,7 @@
 - [コレクション](https://github.com/Castle46-white/Python_tutorial/blob/master/lecture/lec02.md)
 - [条件分岐と繰り返し](https://github.com/Castle46-white/Python_tutorial/blob/master/lecture/lec03.md)
 - [関数](https://github.com/Castle46-white/Python_tutorial/blob/master/lecture/lec04.md)
+- [NumPyとPandas](https://github.com/Castle46-white/Python_tutorial/blob/master/lecture/lec05.md)
 
 ## 暇なときに読むといいかも
 
